@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rodríguez Contreras;Danilo;;;
+FN:Danilo Rodríguez Contreras
+ORG:Ingram Micro;Uruguay
+TITLE:Country Manager
+TEL;TYPE=CELL,VOICE:+59898793630
+EMAIL;TYPE=INTERNET,WORK:danilo.rodriguezcontreras@ingrammicro.com
+URL:https://www.imasuy.com/
+ADR;TYPE=WORK:;Piso 5, Of. 5 (Victoria Plaza Offices Tower);Plaza Independencia 759;Montevideo;;11100;Uruguay
+item1.URL:https://www.linkedin.com/in/drodriguezcontreras/
+item1.X-ABLabel:LinkedIn
+item2.URL:https://www.linkedin.com/company/ingram-micro/
+item2.X-ABLabel:Ingram Micro en LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/drodriguezcontreras/
+END:VCARD
